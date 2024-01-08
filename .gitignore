@@ -1,0 +1,13 @@
+.Rproj
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+
+hinkdata/
+gamelogs/
+data/
+docs/
+Score-keeper/
+emptydata/
